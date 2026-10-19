@@ -1,0 +1,7 @@
+{
+  "session_start_time": "2026-10-19 08:04:00",
+  "initial_equity": 412.30,
+  "max_allowed_loss": 10.0,
+  "max_allowed_margin": 30.0,
+  "stop_equity_threshold": 402.30
+}
